@@ -1,0 +1,16 @@
+{
+  "name": "test3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ng.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "xml2js": "^0.4.19"
+  }
+}
